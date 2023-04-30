@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552152937918",
+    "project_id": "data-voice-record",
+    "storage_bucket": "data-voice-record.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552152937918:android:dbb3b441aef23e143af5ef",
+        "android_client_info": {
+          "package_name": "com.example.flutter_voice_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552152937918-7lnnjsinvvmt8oa2md1vp5fdqfdjafqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbCH_HXGecFARPr_8PLfZdBK6TaqqAqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552152937918-7lnnjsinvvmt8oa2md1vp5fdqfdjafqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
