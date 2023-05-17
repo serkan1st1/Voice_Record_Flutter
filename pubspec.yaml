@@ -30,19 +30,25 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   firebase_core: ^2.10.0
-  firebase_storage: ^10.0.0
+  firebase_storage: ^11.0.1
   firebase_auth: ^4.4.2
   google_sign_in: ^6.1.0
   font_awesome_flutter: ^10.4.0
-  provider: ^6.0.5
+  path_provider: ^2.0.15
+  permission_handler: any
+  record: ^3.0.3
+  simple_ripple_animation: ^0.0.3
+  just_audio: ^0.9.29
+  provider: ^6.0.3
+  percent_indicator: ^4.2.2
+  fluttertoast: ^8.0.9
+  flutter_sound: ^8.1.9
+  path: ^1.8.0
+  assets_audio_player: ^3.0.3+3
+  intl: ^0.17.0
   
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -52,7 +58,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^1.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
