@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![1684318747876](https://github.com/serkan1st1/Voice_Record_Flutter/assets/83124299/17833939-f7a9-460a-b398-33517cf85a99)
+![1684318747883](https://github.com/serkan1st1/Voice_Record_Flutter/assets/83124299/e034c691-b528-40b8-a8b8-01487ad319ee)
+![1684318747892](https://github.com/serkan1st1/Voice_Record_Flutter/assets/83124299/eac1f781-380f-40e4-b814-0b90292c33ed)
